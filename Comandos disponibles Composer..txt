@@ -1,0 +1,44 @@
+Comandos disponibles:
+  about ..................................Muestra una breve información sobre Composer.
+  archive............................... Crea un archivo de este paquete composer.
+  examinar............................ Abre la URL del repositorio del paquete o la página de inicio en su navegador.
+  cc...................................... Borra la memoria caché interna del paquete del compositor.
+  check-platform-reqs........... Verifica que se cumplan los requisitos de la plataforma.
+  clear-cache ........................Borra la memoria caché interna del paquete del compositor.
+  clearcache......................... Borra la memoria caché interna del paquete del compositor.
+  config ................................Establece las opciones de configuración.
+  create-project..................... Crea un nuevo proyecto a partir de un paquete en un directorio dado.
+  depende ..............................Muestra qué paquetes hacen que se instale el paquete dado.
+  diagnosticar ........................Diagnostica el sistema para identificar errores comunes.
+  dump-autoload..................... Vuelca el cargador automático.
+  dumpautoload ......................Vuelca el cargador automático.
+  exec....................................... Ejecuta un script/binario suministrado.
+  fund .....................................Descubre cómo ayudar a financiar el mantenimiento de tus dependencias.
+  global .................................Permite ejecutar comandos en el directorio global composer ($COMPOSER_HOME).
+  ayuda .................................Muestra ayuda para un comando
+  home ..................................Abre la URL del repositorio del paquete o la página de inicio en su navegador.
+  i ..........................................Instala las dependencias del proyecto desde el archivo composer.lock si está presente, o recurre a composer.json.
+  info..................................... Muestra información sobre los paquetes.
+  init .......................................Crea un archivo composer.json básico en el directorio actual.
+  install ....................................Instala las dependencias del proyecto desde el archivo composer.lock si está presente, o recurre a composer.json.
+  licenses ...................................Muestra información sobre las licencias de las dependencias.
+  list ..........................................Enumera los comandos
+  desactualizado .........................Muestra una lista de paquetes instalados que tienen actualizaciones disponibles, incluida su última versión.
+  prohíbe.................................... Muestra qué paquetes impiden que se instale el paquete dado.
+  reinstalar.................................. Desinstala y reinstala los nombres de paquetes dados
+  remove......................................... Elimina un paquete de require o require-dev.
+  require.................................... Agrega los paquetes requeridos a su composer.json y los instala.
+  run .........................................Ejecuta los scripts definidos en composer.json.
+  run-script ................................Ejecuta los scripts definidos en composer.json.
+  search .....................................Busca paquetes.
+  autoactualización..................... Actualiza composer.phar a la última versión.
+  selfupdate                                 Actualiza composer.phar a la última versión.
+  show .......................................Muestra información sobre los paquetes.
+  estado Muestra una lista de paquetes modificados localmente.
+  sugiere Muestra sugerencias de paquetes.
+  u Actualiza tus dependencias a la última versión de acuerdo con composer.json y actualiza el archivo composer.lock.
+  update Actualiza sus dependencias a la última versión de acuerdo con composer.json y actualiza el archivo composer.lock.
+  upgrade Actualiza sus dependencias a la última versión de acuerdo con composer.json y actualiza el archivo composer.lock.
+  validar Valida un composer.json y composer.lock.
+  por qué Muestra qué paquetes hacen que se instale el paquete dado.
+  por qué no Muestra qué paquetes impiden que se instale el paquete dado.
